@@ -11,5 +11,7 @@ public class Main {
         String user = input.nextLine();
 
 	    System.out.println("Hello World and " + user);
+
+        System.out.println("This is a line.");
     }
 }
