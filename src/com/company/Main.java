@@ -13,5 +13,7 @@ public class Main {
 	    System.out.println("Hello World and " + user);
 
         System.out.println("This is a line.");
+
+        System.out.println("I added a new line to master branch");
     }
 }
